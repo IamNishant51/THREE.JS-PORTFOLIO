@@ -1,12 +1,50 @@
-# React + Vite
+<h1 align="center">🌐 My Developer Portfolio</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A sleek, modern, and fully responsive developer portfolio built with React, featuring animations, 3D assets, and smooth scrolling.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://your-image-url.com/preview1.png" alt="Portfolio Preview" width="80%" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💻 **Built with React** – Component-based architecture for easy scalability.
+- 🎨 **Modern UI/UX** – Clean layout, interactive elements, and dark mode.
+- ✨ **GSAP + Lenis Animations** – Smooth, scroll-triggered transitions.
+- 🧠 **Dummy Data** – Easily replaceable with real content.
+- 📱 **Responsive Design** – Mobile-friendly across all devices.
+- 🧩 **3D Models Ready** – Integrates 3D models with WebGL support.
+
+---
+
+## 📸 Screenshots
+
+> Live visual previews of the site
+
+### Some Images of UI Sections
+<img src="Screenshot1.png" alt="Desktop Preview" width="100%" />
+
+<img src="Screenshot2.png" alt="Mobile Preview" width="100%" />
+
+<img src="Screenshot3.png" alt="Mobile Preview" width="100%" />
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Utility-first styling
+- **GSAP** – Animation library
+- **Lenis** – Smooth scrolling
+- **Three.js (Optional)** – 3D rendering
+- **Vite** – Blazing-fast build tool
+
+---
+
+## 📂 Folder Structure
+
