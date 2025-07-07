@@ -103,10 +103,12 @@ const Navbar = () => {
           {["home", "services", "about", "work", "contact"].map(
             (section, index) => (
               <div key={index} ref={(el) => (linksRef.current[index] = el)}>
-                <Link className="transition-all duration-300 cursor-pointer hover:text-white" to={`${section}`}
-                smooth
-                offset={0}
-                duration={2000}
+                <Link
+                  className="transition-all duration-300 cursor-pointer hover:text-white"
+                  to={`${section}`}
+                  smooth
+                  offset={0}
+                  duration={2000}
                 >
                   {section}
                 </Link>
