@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-url.com/preview1.png" alt="Portfolio Preview" width="80%" />
+  <img src="/Screenshot1.png" alt="Portfolio Preview" width="80%" />
 </p>
 
 ---
@@ -26,12 +26,12 @@
 > Live visual previews of the site
 
 ### Some Images of UI Sections
+
 <img src="Screenshot1.png" alt="Desktop Preview" width="100%" />
 
 <img src="Screenshot2.png" alt="Mobile Preview" width="100%" />
 
 <img src="Screenshot3.png" alt="Mobile Preview" width="100%" />
-
 
 ---
 
@@ -48,3 +48,12 @@
 
 ## 📂 Folder Structure
 
+├── public/
+│ └── assets/
+├── src/
+│ ├── components/
+│ ├── sections/
+│ ├── App.jsx
+│ └── main.jsx
+├── tailwind.config.js
+└── vite.config.js
