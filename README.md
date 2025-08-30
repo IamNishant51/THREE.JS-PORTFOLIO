@@ -48,12 +48,12 @@
 
 ## 📂 Folder Structure
 
-├── public/
-│ └── assets/
-├── src/
-│ ├── components/
-│ ├── sections/
-│ ├── App.jsx
-│ └── main.jsx
-├── tailwind.config.js
-└── vite.config.js
+* ├── public/
+* │ └── assets/
+* ├── src/
+*. │ ├── components/
+*. │ ├── sections/
+* │ ├── App.jsx
+* │ └── main.jsx
+* ├── tailwind.config.js
+* └── vite.config.js
