@@ -51,8 +51,8 @@
 * ├── public/
 * │ └── assets/
 * ├── src/
-*. │ ├── components/
-*. │ ├── sections/
+* │ ├── components/
+* │ ├── sections/
 * │ ├── App.jsx
 * │ └── main.jsx
 * ├── tailwind.config.js
